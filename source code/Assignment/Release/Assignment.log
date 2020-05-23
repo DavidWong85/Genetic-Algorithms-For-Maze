@@ -1,0 +1,30 @@
+﻿  Chromosomes.cpp
+  Explorer.cpp
+c:\users\david\desktop\assignment - 1212 1935 - copy\assignment\assignment\explorer.cpp(61): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\david\desktop\assignment - 1212 1935 - copy\assignment\assignment\explorer.cpp(65): warning C4018: '<=': signed/unsigned mismatch
+c:\users\david\desktop\assignment - 1212 1935 - copy\assignment\assignment\explorer.cpp(106): warning C4018: '>=': signed/unsigned mismatch
+c:\users\david\desktop\assignment - 1212 1935 - copy\assignment\assignment\explorer.cpp(226): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Fitness.cpp
+  Main.cpp
+c:\users\david\desktop\assignment - 1212 1935 - copy\assignment\assignment\main.cpp(708): warning C4804: '>': unsafe use of type 'bool' in operation
+c:\users\david\desktop\assignment - 1212 1935 - copy\assignment\assignment\main.cpp(738): warning C4244: '=': conversion from '_Rep' to 'float', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  Maze.cpp
+  Mating.cpp
+c:\users\david\desktop\assignment - 1212 1935 - copy\assignment\assignment\mating.cpp(12): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\desktop\assignment - 1212 1935 - copy\assignment\assignment\mating.cpp(22): warning C4018: '<': signed/unsigned mismatch
+  Random.cpp
+c:\users\david\desktop\assignment - 1212 1935 - copy\assignment\assignment\random.cpp(5): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+  Generating code
+c:\users\david\desktop\assignment - 1212 1935 - copy\assignment\assignment\maze.cpp(57): warning C4715: 'MAZE::showhitGrid': not all control paths return a value
+c:\users\david\desktop\assignment - 1212 1935 - copy\assignment\assignment\maze.cpp(51): warning C4715: 'MAZE::showGrid': not all control paths return a value
+  All 464 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Assignment.vcxproj -> C:\Users\DAVID\Desktop\Assignment - 1212 1935 - Copy\Assignment\Release\Assignment.exe
